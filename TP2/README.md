@@ -2,7 +2,8 @@
 
 ## Autor
 Feito por Rita Machado, A108400
-<img src="foto.jpg" alt="Foto" width="150"/>
+
+<img src="../foto.jpg" alt="Foto" width="150"/>
 
 ## Resumo
 Este trabalho teve como objetivo fazer um pequeno conversor de MarkDown para HTML em Python, cobrindo os seguintes elementos:
@@ -17,4 +18,5 @@ Esta função foi então validada com um pequeno exemplo, demonstrando cada elem
 
 ## Lista de Resultados
 - [Conversor](mdTohtml.py)
-- <img src='resultado' alt="Print do resultado em HTML"/>
+- Print do resultado em HTML
+<img src='resultado.jpg' alt="Print do resultado em HTML"/>
