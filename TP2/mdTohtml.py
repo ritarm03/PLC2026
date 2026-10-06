@@ -4,7 +4,7 @@ def header(txt):
     level = len(txt.group(1))    #quantos '#'
     text = txt.group(2)
 
-    return f"<h{level}>{text}</h{level}"
+    return f"<h{level}>{text}</h{level}>"
 
 def mdTohtml(text):
     #cabeçalhos
